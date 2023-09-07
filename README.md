@@ -1,3 +1,3 @@
-# COMP229 Repository.
-
-# Main Branch.
+# COMP229
+Github repository for COMP229 class.
+Main Branch.
