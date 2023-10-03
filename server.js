@@ -6,7 +6,7 @@ October 2nd, 2023
 */
 
 var express = require('express'); 
-var indexRouter = require("../../app/routes/index.server.routes.js");
+var indexRouter = require("./app/routes/index.server.routes.js");
 var app = express(); 
 
 app.set("views", "./app/views");
